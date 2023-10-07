@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApp w7", "PythonApp w7\PythonApp w7.pyproj", "{570553B8-6397-4B97-93B5-A3E5B21586FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570553B8-6397-4B97-93B5-A3E5B21586FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570553B8-6397-4B97-93B5-A3E5B21586FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64D514F-8CBF-4B3E-BA0B-ADB9B7F1D696}
+	EndGlobalSection
+EndGlobal
